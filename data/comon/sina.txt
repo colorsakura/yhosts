@@ -5,7 +5,6 @@
 127.0.0.1 count.video.sina.com.cn
 127.0.0.1 counter.sina.com.cn
 127.0.0.1 cre.mix.sina.com.cn
-127.0.0.1 current.sina.com.cn
 127.0.0.1 d0.sina.com.cn
 127.0.0.1 d00.sina.com.cn
 127.0.0.1 d1.sina.com.cn
@@ -53,6 +52,9 @@
 127.0.0.1 cre-dp.sina.cn
 127.0.0.1 cre.dp.sina.cn
 127.0.0.1 dl.kjava.sina.cn
+127.0.0.1 log.sina.cn
+127.0.0.1 mixer.sina.cn
+127.0.0.1 mixers.sina.cn
 127.0.0.1 r.dmp.sina.cn
 127.0.0.1 sax.sina.cn
 127.0.0.1 saxs.sina.cn

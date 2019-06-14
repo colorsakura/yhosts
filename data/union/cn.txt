@@ -53,6 +53,9 @@
 127.0.0.1 tb104x.corp.youdao.com
 127.0.0.1 tb060x.corp.youdao.com
 127.0.0.1 adpublish.ydstatic.com
+#bayimob.com
+127.0.0.1 hdggcdn.bayimob.com
+127.0.0.1 interaction.bayimob.com
 #baidu1
 127.0.0.1 adscdn.baidu.com
 127.0.0.1 api.cpu.baidu.com
@@ -142,10 +145,12 @@
 127.0.0.1 cv.1o26.com
 127.0.0.1 i.1o26.com
 #2345
-127.0.0.1 zhushou.2345.com
+127.0.0.1 bdcode.2345.com
+127.0.0.1 bdsearch.2345.com
 127.0.0.1 jifen.2345.com
 127.0.0.1 tg.jifen.2345.com
 127.0.0.1 wan.2345.com
+127.0.0.1 zhushou.2345.com
 127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 js.50bang.org
@@ -173,13 +178,14 @@
 127.0.0.1 stage.3gmimo.com
 127.0.0.1 www.3gmimo.com
 #51la
-127.0.0.1 tc.51la.net
+127.0.0.1 ia.51.la
 127.0.0.1 icon.51.la
+127.0.0.1 icon.users.51.la
 127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
-127.0.0.1 icon.users.51.la
 127.0.0.1 js3.users.51.la
 127.0.0.1 quote.51.la
+127.0.0.1 tc.51la.net
 127.0.0.1 vip.51.la
 127.0.0.1 web.51.la
 127.0.0.1 web1.51.la
@@ -746,6 +752,7 @@
 127.0.0.1 static.gridsumdissector.com
 #growingio.com
 127.0.0.1 api.growingio.com
+127.0.0.1 assets.growingio.com
 127.0.0.1 apihk.growingio.com
 127.0.0.1 crashapi.growingio.com
 127.0.0.1 t.growingio.com
@@ -776,6 +783,7 @@
 #jiguang.cn
 127.0.0.1 im.jpush.cn
 127.0.0.1 im64.jpush.cn
+127.0.0.1 ali-stats.jpush.cn
 127.0.0.1 s.jpush.cn
 127.0.0.1 stats.jpush.cn
 127.0.0.1 sis.jpush.io
@@ -979,7 +987,6 @@
 127.0.0.1 b.qchannel03.cn
 127.0.0.1 fd.qchannel03.cn
 127.0.0.1 www.qchannel04.cn
-#qtmojo
 #qucaigg.com
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 77kb.qucaigg.com

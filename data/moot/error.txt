@@ -5,6 +5,8 @@
 127.0.0.1 app.shandjj.com
 127.0.0.1 clkde.tradedoubler.com
 127.0.0.1 dorado.xiaojukeji.com
+127.0.0.1 activity.tuiapple.com
+127.0.0.1 apple.pvxt.net
 @errorpage/weixin
 127.0.0.1 vzan.com
 127.0.0.1 wx.shunliandongli.com
@@ -22,7 +24,6 @@
 127.0.0.1 log.ttjx.tatagou.com.cn
 127.0.0.1 ttg.cdn.suanzi.cn
 127.0.0.1 s.youzhuanhua.com
-127.0.0.1 mobile.yangkeduo.com
 @errorpage/daohang
 127.0.0.1 www.2345.com
 127.0.0.1 www.hao123.com
@@ -41,3 +42,5 @@
 127.0.0.1 www.yiqixiu.com
 127.0.0.1 m.ishangtong.com
 127.0.0.1 www.taoev.com
+127.0.0.1 wodeai.cn
+127.0.0.1 www.goubt.top

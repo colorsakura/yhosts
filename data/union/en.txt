@@ -21,8 +21,6 @@
 127.0.0.1 app-tj.adinall.com
 127.0.0.1 cdn.adinall.com
 127.0.0.1 pmp.adinall.com
-#adjust.com
-127.0.0.1 app.adjust.com
 #adk2.co
 127.0.0.1 adbma.adk2.co
 127.0.0.1 adplexmedia.adk2.co
@@ -43,11 +41,13 @@
 127.0.0.1 m.admedia.com
 #adnxs.com
 127.0.0.1 admeld.adnxs.com
+127.0.0.1 adnxs.com
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 fim.adnxs.com
 127.0.0.1 g.adnxs.com
 127.0.0.1 gam.adnxs.com
 127.0.0.1 ib.adnxs.com
+127.0.0.1 m.adnxs.com
 127.0.0.1 photobucket.adnxs.com
 127.0.0.1 secure-sin.adnxs.com
 127.0.0.1 secure.adnxs.com
@@ -450,6 +450,7 @@
 127.0.0.1 match.taboola.com
 127.0.0.1 trc.taboola.com
 127.0.0.1 vidstat.taboola.com
+127.0.0.1 cdn.taboola.com.cn
 127.0.0.1 cdn.taboolasyndication.com
 #tapjoy
 127.0.0.1 tapjoy.cn
@@ -517,3 +518,4 @@
 127.0.0.1 load77.exelator.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 sync.crwdcntrl.net
+127.0.0.1 server.exposebox.com
